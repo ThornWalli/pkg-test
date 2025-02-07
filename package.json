@@ -3,6 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThornWalli/pkg-test.git"
+  },
   "type": "module",
   "exports": {
     ".": {

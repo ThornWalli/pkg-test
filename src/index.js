@@ -1,3 +1,3 @@
 export default function () {
-  console.log('test2001');
+  console.log('test2002');
 }
